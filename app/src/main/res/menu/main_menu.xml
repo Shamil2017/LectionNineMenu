@@ -6,7 +6,7 @@
         android:id="@+id/first"
         android:title="Первый" />
     <item
-        android:id="@+id/Second"
+        android:id="@+id/second"
         android:title="Второй" />
     <item
         android:id="@+id/third"
